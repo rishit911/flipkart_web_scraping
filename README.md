@@ -1,1 +1,1 @@
-# flipkart_web_scraping
+# flipkart-web-scraping-python-project
